@@ -9,6 +9,7 @@ body {
 
 section {
   display: flex;
+  margin-bottom: 100px;
 }
 
 .top-banner {
@@ -36,4 +37,10 @@ section {
   background-image: linear-gradient(orange, tomato);
   padding: 10px 40px;
   border-radius: 5px;
+}
+
+.dream-big {
+  background-image: url(/images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
 }
